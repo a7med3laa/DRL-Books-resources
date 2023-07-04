@@ -7,8 +7,7 @@ This repo provides some Deep Reinforcement Learning (DRL) Books and Links for St
 ## Deep Reinforcement Learning (DRL)
 
 
-
-![RL classifications]([https://kenovy.com/wp-content/uploads/2022/12/Types_of_Machine_Learning-83f-1024x732.jpg](https://raw.githubusercontent.com/a7med3laa/DRL-Books-resources/main/machine-learning1-1.png) "RL classifications")
+![RL classifications](https://raw.githubusercontent.com/a7med3laa/DRL-Books-resources/main/machine-learning1-1.png "RL classifications")
 
 
 - Reinforcement Learning (RL) is a Semi-supervised machine-learning approach. 
