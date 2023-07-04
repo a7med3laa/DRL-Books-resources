@@ -4,17 +4,20 @@ This repo provides some Deep Reinforcement Learning (DRL) Books and Links for St
 
 ------------
 
-## Deep Reinforcement Learning (DRL)
+## Reinforcement Learning (RL)
 
 
-![RL classifications](https://raw.githubusercontent.com/a7med3laa/DRL-Books-resources/main/machine-learning1-1.png "RL classifications")
-
+![ML Classifications](https://raw.githubusercontent.com/a7med3laa/DRL-Books-resources/main/machine-learning1-1.png "ML Classifications")
 
 - Reinforcement Learning (RL) is a Semi-supervised machine-learning approach. 
 
 - It  is concerned with learning control laws and policies to interact with a complex environment from experience
 
 - The RL agent goes through many trial and error steps to maximize the reward it gets from the environment
+
+------------
+
+## Deep Reinforcement Learning (DRL)
 
 - In recent years, A combination of deep learning and RL Classic RL is proposed as Deep Reinforcement Learning (DRL)
 
