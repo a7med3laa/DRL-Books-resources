@@ -3,9 +3,10 @@
 This repo provides some Deep Reinforcement Learning (DRL) Books and Links for Studying.
 
 ------------
+
 ## Deep Reinforcement Learning (DRL)
 
-------------
+
 
 ![RL classifications]([https://kenovy.com/wp-content/uploads/2022/12/Types_of_Machine_Learning-83f-1024x732.jpg](https://raw.githubusercontent.com/a7med3laa/DRL-Books-resources/main/machine-learning1-1.png) "RL classifications")
 
@@ -25,7 +26,7 @@ This repo provides some Deep Reinforcement Learning (DRL) Books and Links for St
 
 
 ## Online Courses
-------------
+
 - [Stanford CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u "Stanford CS234: Reinforcement Learning | Winter 2019")
 
 - [DeepMind x UCL | RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ "DeepMind x UCL | RL Course by David Silver")
@@ -42,7 +43,7 @@ This repo provides some Deep Reinforcement Learning (DRL) Books and Links for St
 
 
 ## Books
-------------
+
 1. Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018.‏
 
 1. Brunton, Steven L., and J. Nathan Kutz. Data-driven science and engineering: Machine learning, dynamical systems, and control, ch 11, Cambridge University Press, 2022.‏
