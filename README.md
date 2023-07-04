@@ -4,10 +4,11 @@ This repo provides some Deep Reinforcement Learning (DRL) Books and Links for St
 
 ##Deep Reinforcement Learning (DRL)
 
-[![RL](Machine learning classifications "RL")](https://raw.githubusercontent.com/a7med3laa/DRL-Books-resources/main/machine-learning1-1.png "RL")
+![RL classifications](https://kenovy.com/wp-content/uploads/2022/12/Types_of_Machine_Learning-83f-1024x732.jpg "RL classifications")
 
-- Reinforcement Learning (RL) is a Semi-supervised machine-learning
-- approach. It  concerned with learning control laws and policies to interact with a complex environment from experience
+- Reinforcement Learning (RL) is a Semi-supervised machine-learning approach. 
+
+- It  concerned with learning control laws and policies to interact with a complex environment from experience
 
 - The RL agent goes through many trial-anderror steps to maximize the reward it gets from the environment
 
@@ -45,6 +46,3 @@ This repo provides some Deep Reinforcement Learning (DRL) Books and Links for St
 1.  Gym, O., and Nimish Sanghi. Deep reinforcement learning with python. Apress, 2021.‏ his code repo [here](https://github.com/Apress/deep-reinforcement-learning-python "here")
 
 1.  simple presentation that I made
-
-
-
